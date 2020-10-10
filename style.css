@@ -1,0 +1,29 @@
+h1 {
+    color: brown;
+}
+
+* {
+    
+}
+.header{
+    display: flex;
+    background-color: cadetblue;
+    justify-content: space-evenly;
+}
+.links{
+    display:flex;
+    background-color: cadetblue;
+    justify-content:flex-end;
+}
+*{
+    background-color: #ec9696;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
